@@ -3,3 +3,11 @@ div {
     margin-left: calc( (100% - 800px) / 2 );
     background-color: violet;
 }
+    header {
+        display: inline-block;
+        width: 100%;
+    }
+    main {
+        display: inline-block;
+        width: 100%;
+    }
